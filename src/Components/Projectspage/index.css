@@ -1,0 +1,84 @@
+h2 {
+  font-weight: 700;
+  color: #25282b;
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  color: #828282;
+  font-family: "Roboto";
+}
+
+button {
+  padding: 4px;
+  border-radius: 24px;
+  border: 1px solid #25282b;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 10px;
+  cursor: pointer;
+}
+.project-container {
+  display: flex;
+  justify-content: space-between;
+}
+.project-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.container {
+  /* width: 45vw; */
+  background-color: #ffffff;
+  border-radius: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+li {
+  list-style-type: none;
+}
+.prfile-image {
+  height: 220px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.heading {
+  text-align: center;
+  text-decoration: underline;
+}
+.projectspage {
+  display: flex;
+  justify-content: center;
+
+  text-align: center;
+}
+.container-list {
+  margin-left: 0px;
+}
+.insta {
+  font-size: 26px;
+
+  margin-right: 16px;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.s {
+  text-align: center;
+  background-image: url("https://res.cloudinary.com/dufyrxyey/image/upload/v1706239558/Vector_mwphvl.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-origin: inherit;
+}
+.copy {
+  font-size: 14px;
+}
+.icons-container {
+  height: 18vh;
+}

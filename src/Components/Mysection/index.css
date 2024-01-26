@@ -1,0 +1,35 @@
+.projects-button {
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #fdc435;
+  padding: 8px 10px 8px 10px;
+  color: #535354;
+  font-size: 14px;
+}
+.linked-button {
+  border: 1px solid #535354;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: transparent;
+  padding: 8px 10px 8px 10px;
+  color: #535354;
+  font-size: 14px;
+  margin-left: 8px;
+}
+.about {
+  margin-left: 10px;
+}
+.description {
+  line-height: 25px;
+  font-weight: 500;
+}
+.role {
+  color: #fdc435;
+  font-weight: 600;
+}
+.intro {
+  color: #535354;
+  font-size: 90px;
+  font-weight: 700;
+}
